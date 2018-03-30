@@ -1,3 +1,3 @@
 # hello-world
 
-I want to learn ow to use github
+I want to learn how to use github
